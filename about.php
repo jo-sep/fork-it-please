@@ -38,7 +38,7 @@
       <!-- /.col-lg-8 -->
       <div class="col-lg-12">
         <h1 class="font-weight-light">ABOUT KAL Skills Akademie</h1>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi voluptate placeat similique hic! Repellendus totam porro non asperiores eius nam repudiandae quibusdam nesciunt aperiam obcaecati. Voluptate molestias veniam iure eos!</p>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi voluptate placeat similique hic! Repellendus totam porro non asperiores eius nam repudiandae quibusdam nesciunt aperiam obcaecati. Voluptate molestias veniam iure !</p>
       </div>
 
       <div class = "col-lg-12">
